@@ -1,5 +1,6 @@
 pymysql
 streamlit
+plotly
 pandas
 matplotlib
 seaborn
